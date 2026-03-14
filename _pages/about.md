@@ -12,7 +12,7 @@ profile:
     <p>Based in Japan</p>
     <p>nishi@yuichironishi.com</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
