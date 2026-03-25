@@ -87,7 +87,7 @@ jobs:
           python-version: "3.13"
           cache: "pip"
       - name: Setup Pages
-        uses: actions/configure-pages@v6
+        uses: actions/configure-pages@v6.0.0
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
