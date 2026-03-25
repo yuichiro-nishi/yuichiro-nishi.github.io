@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Based in Japan</p>
-    <p>nishi@yuichironishi.com</p>
+    <p>yuichiro@yuichironishi.com</p>
 
 selected_papers: false
 social: true
