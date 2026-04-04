@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects in theoretical high-energy physics.
+description: Research projects in theoretical physics and interdisciplinary studies.
 nav: true
 nav_order: 2
 display_categories: [research]
