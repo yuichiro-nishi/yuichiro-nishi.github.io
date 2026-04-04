@@ -29,3 +29,5 @@ latest_posts:
 I am an independent researcher working in theoretical high-energy physics (hep-th). My research focuses on supersymmetric gauge theories and the AdS/CFT correspondence.
 
 I am currently working on vanishing theorems for 1-point functions in N=4 Super Yang-Mills theory and their behavior under various deformations.
+
+Alongside my work in theoretical physics, I am pursuing an interdisciplinary project that brings mathematical structures from engineering and information theory to bear on a philosophical question. Specifically, I am preparing a paper that provides a constructive counter-evidence to Derrida's concept of différance, drawing on the formal architecture of Transformers and the mathematical framework of information theory.
